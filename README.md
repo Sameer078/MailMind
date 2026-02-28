@@ -2,6 +2,9 @@
 
 MailMind is an AI-powered email agent that intelligently processes incoming emails to detect scams or phishing attempts, generate smart replies for legitimate emails, and extract task-related information.  
 It integrates with the **Gmail API** for real-time email retrieval, uses **LangGraph** for decision routing, and leverages **LLMs** with built-in security guardrails to ensure safe and reliable email automation.
+<p align="center">
+  <img src="images/mailmind.png" width="80%">
+</p>
 
 ---
 
